@@ -1,0 +1,3 @@
+- can we parse augments directly from the spectator traffic rather than scraping in-game? i suspect so, but don't know how...
+- implement more advanced stats queries, ala tactics.tools explorer
+- frontend to display stats more user-friendly
